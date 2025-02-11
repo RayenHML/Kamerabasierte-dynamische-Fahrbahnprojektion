@@ -1,11 +1,11 @@
 # Kamerabasierte-dynamische-Fahrbahnprojektion
 
 ## Überblick
-**Entwicklung und Implementierung einer kamerabasierten Engstellenlichtprojektion**
 
-Das ausgestattete Versuchsfahrzeug am IPeG |  Lichtprojektion
-:-------------------------:|:-------------------------:
-![](https://github.com/RayenHML/Kamerabasierte-dynamische-Fahrbahnprojektion/blob/main/Bilder/001.png)  |  ![](https://github.com/RayenHML/Kamerabasierte-dynamische-Fahrbahnprojektion/blob/main/Bilder/002.jpg)
+
+
+
+ ![](https://github.com/RayenHML/Kamerabasierte-dynamische-Fahrbahnprojektion/blob/main/Bilder/002.jpg)
 
 Dieses Repository enthält das Python-Skript, das eine Bildverarbeitung zur Erkennung der Fahrspuren und anschließlich Projektion der Lichtprojektionen auf der Fahrbahn in ROS durchführt.
 
