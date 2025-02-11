@@ -87,7 +87,7 @@ Eine Callback-Funktion, die die Bildverarbeitung durchführt.
 
 ## Hauptbestandteile des Codes
 
-Das Skript ``ROS_Version01.py`` verarbeitet Bilder einer Kamera und veröffentlicht die Ergebnisse über ROS.
+Das Skript ``lane_detection.py`` verarbeitet Bilder einer Kamera und veröffentlicht die Ergebnisse über ROS.
 
 **Initialisierung der ROS-Knoten und Topics**
 ```bash
