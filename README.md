@@ -5,7 +5,8 @@
 
 
 
- ![](https://github.com/RayenHML/Kamerabasierte-dynamische-Fahrbahnprojektion/blob/main/Bilder/002.jpg)
+
+<img src="https://github.com/RayenHML/Kamerabasierte-dynamische-Fahrbahnprojektion/blob/main/Bilder/002.png" width="400" height="400">
 
 Dieses Repository enthält das Python-Skript, das eine Bildverarbeitung zur Erkennung der Fahrspuren und anschließlich Projektion der Lichtprojektionen auf der Fahrbahn in ROS durchführt.
 
